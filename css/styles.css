@@ -1,0 +1,21 @@
+h1, h2 {
+  font-family: "Raleway", sans-serif;
+  color: rgb(102, 153, 0);
+  text-align: center;
+  opacity: 40
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+
+body {
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    display: block;
+    margin: 8px;
+    background-color: rgb(204, 255, 255)
+}
