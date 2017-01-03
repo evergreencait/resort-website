@@ -14,6 +14,10 @@ Simple HTML sites with 5 pages
 
 * Open in a web browser.
 
+* Github address:
+https://minhchan11.github.io/resort-website/
+https://evergreencait.github.io/resort-website/
+
 
 ## Known Bugs
 
